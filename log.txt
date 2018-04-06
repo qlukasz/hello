@@ -1,3 +1,9 @@
+commit 9d345c7523afc51209422dd885fa001692e9478c
+Author: LTA <lukasz.tarasiuk@comarch.pl>
+Date:   Fri Apr 6 10:25:32 2018 +0200
+
+    commit5
+
 commit 8cc63b3944783fcb91ff761160b7326f3447f8c4
 Author: LTA <lukasz.tarasiuk@comarch.pl>
 Date:   Fri Apr 6 10:16:39 2018 +0200
@@ -27,6 +33,3 @@ Author: LTA <lukasz.tarasiuk@comarch.pl>
 Date:   Fri Apr 6 09:52:29 2018 +0200
 
     first commit
-
-	
-	git diff 008d3b69ffdb9a4b5825272806006e5f77525cc9 8cc63b3944783fcb91ff761160b7326f3447f8c4   > my.patch
